@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About me 👋
+I'm currently student at HaNoi university of Industry
 <!--
 **whoisLePhuc/whoisLePhuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
