@@ -1,5 +1,10 @@
-## About me 👋
-I'm currently student at HaNoi university of Industry
+## About me
+Master's Student in Electrical Engineering at Hanoi University of Industry (HaUI) | Embedded Software Engineer
+
+I am currently pursuing a Master's degree in Electrical Engineering at Hanoi University of Industry (HaUI) while working as an Embedded Software Engineer.
+
+This GitHub serves as a place to share my projects, research activities, and continuous learning journey in embedded software and control engineering.
+
 <!--
 **whoisLePhuc/whoisLePhuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
