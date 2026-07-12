@@ -1,5 +1,5 @@
 ## About me
-Master's Student in Electrical Engineering at Hanoi University of Industry (HaUI) | Embedded Software Engineer
+Master's Student in Electrical Engineering at Hanoi University of Industry (HaUI) | Embedded Engineer
 
 I am currently pursuing a Master's degree in Electrical Engineering at Hanoi University of Industry (HaUI) while working as an Embedded Software Engineer.
 
